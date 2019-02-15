@@ -1,0 +1,99 @@
+1. Google (Mountain View, CA)
+
+2. Facebook (Menlo Park, CA)
+
+3. Salesforce (San Francisco, CA)
+
+4. Microsoft (Redmond, WA)
+
+5. Netflix (Los Gatos, CA)
+
+6. Apple (Cupertino, CA)
+
+7. Accenture (New York, NY)
+
+8. Cisco (San Jose, CA)
+
+9. Intuit (Mountain View, CA)
+
+10. Chevron Corporation (San Ramon, CA)
+
+11. Bloomberg (New York, NY)
+
+12. eBay (San Jose, CA)
+
+13. T-Mobile (Bellevue, WA)
+
+14. Hubspot (Cambridge, MA)
+
+15. LogMeIn (Boston, MA)
+
+16. Zillow (Seattle, WA)
+
+17. Adobe (San Jose, CA)
+
+18. LinkedIn (Sunnyvale, CA)
+
+19. Zynga (San Francisco, CA)
+
+20. Goldman Sachs (New York, NY)
+
+21. NVIDIA (Santa Clara, CA)
+
+22. Nike (Portland, OR)
+
+23. Red Bull (Santa Monica, CA)
+
+24. Wells Fargo (San Francisco, CA)
+
+25. VMware (Palo Alto, CA)
+
+26. Axon (Scottsdale, AZ)
+
+27. Visa (Foster City, CA)
+
+28. Indeed.com (Austin, TX)
+
+29. Amazon (Seattle, WA)
+
+30. Delta Air Lines (Atlanta, GA)
+
+31. Nevro (Redwood City, CA)
+
+32. The Coca-Cola Company (Atlanta, GA)
+
+33. PayPal (San Jose, CA)
+
+34. American Express (New York, NY)
+
+35. Edifecs (Bellevue, WA)
+
+36. ADP (Roseland, NJ)
+
+37. Workfront (Lehi, UT)
+
+38. UiPath (New York, NY)
+
+39. Aflac (Columbus, GA)
+
+40. Golden Hippo Media (Woodland Hills, CA)
+
+41. Dynatrace (Waltham, MA)
+
+42. Trimble (Sunnyvale, CA)
+
+43. Pegasystems (Cambridge, MA)
+
+44. Blizzard Entertainment (Irvine, CA)
+
+45. The Home Depot (Atlanta, GA)
+
+46. Comcast (Philadelphia, PA)
+
+47. Starbucks (Seattle, WA)
+
+48. Verizon (Basking Ridge, NJ)
+
+49. Procter & Gamble (Cincinnati, OH)
+
+50. Kaiser Permanente (Oakland, CA)

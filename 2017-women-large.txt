@@ -1,0 +1,50 @@
+Accenture (US), San Jose, CA
+Adobe, Roseland, NJ
+ADP, Roseland, NJ
+Aetna, Hartford, CT
+Alorica, Irvine, CA
+Anthem, Inc., Indianapolis, IN
+Apple, Cupertino, CA
+Capital One, McLean, VA
+Chegg, Santa Clara, CA
+Cornerstone OnDemand, Santa Monica, CA
+Costco, Issaquah, WA
+Dropbox, San Francisco, CA
+Facebook, Menlo Park, CA
+GoDaddy, Scottsdale, AZ
+Golden Hippo Media, Woodland Hills, CA
+Google, Mountain View, CA
+H E B, San Antonio, TX
+HCA Holdings, Nashville, TN
+HubSpot, Cambridge, MA
+Indeed, Austin, TX
+Insight, ‎Tempe, AZ
+Insight Global, Atlanta, GA
+Intuit, Mountain View, CA
+Jive Communications, Orem, UT
+Kaiser Permanente, Oakland, CA
+Lyft, San Francisco, CA
+MAC Cosmetics, New York City, NY
+Marriott, Bethesda, MD
+Microsoft, Redmond, WA
+Netflix, Los Gatos, CA
+Nike, Beaverton, OR
+NVIDIA , Santa Clara, CA
+Pegasystems, Cambridge, MA
+PepsiCo, Purchase, NY
+Petco, San Diego, CA
+Pinterest, San Francisco, CA
+Pluralsight, Farmington, UT
+Publix Super Markets, Lakeland, FL
+Red Hat, Raleigh, NC
+Salesforce, San Francisco, CA
+Slack, San Francisco, CA
+Starbucks, Seattle, WA
+Sunrun, San Francisco, CA
+T-Mobile, Bellevue, WA
+Vertafore, Bellevue, WA
+VMware, Palo Alto, CA
+Workday, Pleasanton, CA
+Workfront, Lehi, UT
+Xero Inc, San Francisco, CA
+Zillow, Seattle, WA
